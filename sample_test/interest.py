@@ -19,6 +19,7 @@ def main() -> None:
 
     print(f"\nSimple Interest: {interest:.2f}")
     print(f"Total Amount: {total_amount:.2f}")
+    print(f"=== commit test ===")
 
 
 if __name__ == "__main__":
